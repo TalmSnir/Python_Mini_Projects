@@ -1,0 +1,1 @@
+words_list=["tal","hello","what","city"]
